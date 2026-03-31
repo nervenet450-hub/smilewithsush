@@ -1,0 +1,10 @@
+{
+  "name": "Ivory Insight — Practice Portal",
+  "short_name": "Ivory Insight",
+  "description": "Dental practice portal — optimized link opens the mobile layout.",
+  "start_url": "/?view=mobile",
+  "display": "standalone",
+  "background_color": "#f8f8f6",
+  "theme_color": "#f8f8f6",
+  "icons": []
+}
